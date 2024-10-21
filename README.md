@@ -2,13 +2,12 @@
 
 ##  Desafio do Estágio em DevOps - VExpenses
 
---- 
-
-### 🌟 Automação de Infraestrutura com Terraform na AWS
-
 ---
 
 ```markdown
+
+### 🌟 Automação de Infraestrutura com Terraform na AWS
+
 ## 📖 Descrição Técnica da Infraestrutura
 
 Este projeto configura uma infraestrutura básica na **AWS** com os seguintes recursos:
